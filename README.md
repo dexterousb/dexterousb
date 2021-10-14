@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on my MERN Stack 
 - 🌱 I’m currently learning Data Structure and Algorithms
-- 👯 I’m looking to collaborate on Ui/Ux and Web Dvlopment Projects!
+- 👯 I’m looking to collaborate on Ui/Ux and Web Development Projects!
 - 🤔 I’m looking for help with openCV
 - 📫 How to reach me: [balvinder.loothra@gmail.com](mailto:balvinder.loothra@gmail.com) & [Instagram: @dexterous.balvin](https://www.instagram.com/dexterous.balvin/)
 - 😄 Pronouns: He/Him
