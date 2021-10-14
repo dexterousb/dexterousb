@@ -5,11 +5,11 @@
 <!--------- HEAD SECTION END-------------->
 ### I'm Balvinder Singh
 
-   an Open Source Enthusiast, Competitive Programmer and more! loves Anime and Manga, always learning new things, ready for discussions and collabarating on projects etc.
+   an Open Source Enthusiast, Competitive Programmer and more! loves designing, always learning new things, ready for discussions and collabarating on projects etc.
 
 - 🔭 I’m currently working on my MERN Stack 
 - 🌱 I’m currently learning Data Structure and Algorithms
-- 👯 I’m looking to collaborate on anything python!
+- 👯 I’m looking to collaborate on Ui/Ux and Web Dvlopment Projects!
 - 🤔 I’m looking for help with openCV
 - 📫 How to reach me: [balvinder.loothra@gmail.com](mailto:balvinder.loothra@gmail.com) & [Instagram @dexterous.balvin](https://www.instagram.com/dexterous.balvin/)
 - 😄 Pronouns: He/Him
