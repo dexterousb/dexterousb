@@ -55,7 +55,7 @@
 
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dexterousb&show_icons=true&count_private=true&theme=react" />
 
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Binal02Singh&theme=react" />
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dexterousb&theme=react" />
 
 [![Balvinder's github activity graph](https://activity-graph.herokuapp.com/graph?username=dexterousb&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/dexterousb/github-readme-activity-graph)
 
