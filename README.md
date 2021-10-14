@@ -8,8 +8,7 @@
    A goal oriented and versatile student currently enrolled in degree of computer sciences at GGSIPU, Seeking a position to utilize my present knowledge and skills 
    to meet the goals, objectives of the organization and learn new technologies at the same time.
    
-   In my spare time , I design apps which aims to help people for finer user experience. I also create digital artworks on specific theme/topics to show awarensess  
-   among social ethics , religion and culture.
+   In my spare time , I design apps which aims to help people for finer user experience. I also create digital artworks on specific theme/topics to show awarensess  among social ethics, religion and culture.
 
    Other than that , I enjoy playing guitar to initiate calmness & expressing myself through music. This creates a fun loving atmosphere, which boosts up my 
    creativity skills and benefits in attaining harmony in life.
