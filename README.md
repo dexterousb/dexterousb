@@ -21,6 +21,8 @@
 - 📫 How to reach me: [balvinder.loothra@gmail.com](mailto:balvinder.loothra@gmail.com) & [Instagram: @dexterous.balvin](https://www.instagram.com/dexterous.balvin/)
 - 😄 Pronouns: He/Him
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dexterousb&label=Profile%20views&color=0e75b6&style=flat-square" alt="BalvinderSingh" /> </p>
+
 ### Programming Languages 🌐
 
 - Know/Using
