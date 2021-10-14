@@ -1,6 +1,6 @@
 ## Hey there <img src="https://github.com/dexterousb/dexterousb/blob/main/gifs/Hi.gif" width="27px">
 <!--------- HEAD SECTION------------------>
-<img src="https://drive.google.com/file/d/1VLKjQXUkbsIYU1XwhkJmDs4YvtgAzrXi/view?usp=sharing">
+<img src="https://github.com/dexterousb/dexterousb/blob/main/Banner/Welcome-2-2-2.gif">
 
 <!--------- HEAD SECTION END-------------->
 ### I'm Balvinder Singh
