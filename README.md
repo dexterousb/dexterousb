@@ -72,8 +72,8 @@
 
 <p align="center">
 <a href="https://twitter.com/BSloothra" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" alt="Balvinder_singh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bsloothra/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Balvinder_linkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dexterous.balvin/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="balvindersingh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bsloothra/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Balvinder_linkedIn" height="30" width="30" /></a>
+<a href="https://www.instagram.com/dexterous.balvin/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="balvindersingh" height="30" width="30" /></a>
 <br>
 <br>
 
