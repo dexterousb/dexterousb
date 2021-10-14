@@ -20,8 +20,6 @@
 - 🤔 I’m looking for help with openCV
 - 📫 How to reach me: [balvinder.loothra@gmail.com](mailto:balvinder.loothra@gmail.com) & [Instagram @dexterous.balvin](https://www.instagram.com/dexterous.balvin/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Big fan of   <img src="./images/shiba.png" width="17px" height="17px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dexterousb&label=Profile%20views&color=0e75b6&style=flat-square" alt="Balvindersingh" /> </p>
 
 ### Programming Languages 🌐
 
